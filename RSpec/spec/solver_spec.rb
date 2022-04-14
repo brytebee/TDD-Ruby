@@ -1,5 +1,5 @@
-require '../lib/solver'
 require 'rspec/autorun'
+require '../lib/solver'
 
 describe Solver do
   context 'When call the method factorial' do
